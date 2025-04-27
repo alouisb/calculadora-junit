@@ -29,3 +29,7 @@ Este projeto é uma calculadora simples desenvolvida em Java com testes unitári
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT.
+<<<<<<< HEAD
+=======
+
+>>>>>>> d048216a358789d5e4a0dbe3cde2c34b5c8c1bce
